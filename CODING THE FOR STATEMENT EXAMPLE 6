@@ -1,0 +1,17 @@
+package myWhile;
+
+public class TheForStatementExample6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int i;
+		
+		for( i = 1; i < 3; i++) {
+			System.out.print("YAHOO" + " ");
+			System.out.print("***");
+		
+	}
+
+}
+}
